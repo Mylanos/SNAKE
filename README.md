@@ -1,7 +1,7 @@
 # SNAKE
 Snake game in Assembly
 
-PREKLAD v LINUXE
+Linux compilation:
     
     nasm -f elf32 -g -o had.o had.asm
     
